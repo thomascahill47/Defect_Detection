@@ -1,0 +1,42 @@
+
+==============================
+Results for: TRAIN
+==============================
+              precision    recall  f1-score   support
+
+      accept     0.8204    1.0000    0.9013       169
+      reject     1.0000    0.4308    0.6022        65
+
+    accuracy                         0.8419       234
+   macro avg     0.9102    0.7154    0.7517       234
+weighted avg     0.8703    0.8419    0.8182       234
+
+
+
+==============================
+Results for: VAL
+==============================
+              precision    recall  f1-score   support
+
+      accept     0.9000    1.0000    0.9474        36
+      reject     1.0000    0.6923    0.8182        13
+
+    accuracy                         0.9184        49
+   macro avg     0.9500    0.8462    0.8828        49
+weighted avg     0.9265    0.9184    0.9131        49
+
+
+
+==============================
+Results for: TEST
+==============================
+              precision    recall  f1-score   support
+
+      accept     0.9250    1.0000    0.9610        37
+      reject     1.0000    0.8000    0.8889        15
+
+    accuracy                         0.9423        52
+   macro avg     0.9625    0.9000    0.9250        52
+weighted avg     0.9466    0.9423    0.9402        52
+
+

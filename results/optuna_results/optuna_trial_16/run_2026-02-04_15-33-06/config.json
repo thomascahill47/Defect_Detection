@@ -1,0 +1,17 @@
+{
+    "data_root": "./Final_Set",
+    "out_root": "optuna_results\\optuna_trial_16",
+    "img_size": 224,
+    "num_workers": 2,
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15,
+    "seed": 1337,
+    "arch": "resnet18",
+    "pretrained": false,
+    "epochs": 10,
+    "batch_size": 8,
+    "lr": 0.0031849204388256806,
+    "weight_decay": 0.0004809941973221729,
+    "patience": 3
+}

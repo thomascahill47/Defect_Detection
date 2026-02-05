@@ -1,0 +1,17 @@
+UNDERSTANDING THE METRICS FOR THIS MODEL
+========================================
+
+Classes: ['accept', 'reject']
+
+--- Context for class 'accept' ---
+True Positive (TP): An image WAS a accept, and the model guessed accept.
+True Negative (TN): An image was NOT a accept, and the model correctly guessed something else.
+False Positive (FP): The model guessed accept, but it was actually something else (False Alarm).
+False Negative (FN): The image WAS a accept, but the model missed it (Missed Detection).
+
+--- Context for class 'reject' ---
+True Positive (TP): An image WAS a reject, and the model guessed reject.
+True Negative (TN): An image was NOT a reject, and the model correctly guessed something else.
+False Positive (FP): The model guessed reject, but it was actually something else (False Alarm).
+False Negative (FN): The image WAS a reject, but the model missed it (Missed Detection).
+
