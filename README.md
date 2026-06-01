@@ -2,7 +2,6 @@
 
 Binary image classifier (Accept / Reject) trained on the [MVTec Anomaly Detection dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad). Uses a fine-tuned ResNet18 backbone with transfer learning, Optuna hyperparameter search, and a full evaluation suite (confusion matrices, classification reports, loss/accuracy curves).
 
-Built for CSCI 484 — Computer Vision & Machine Learning.
 
 ---
 
